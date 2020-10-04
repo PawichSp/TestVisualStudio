@@ -1,7 +1,7 @@
 More of text
 git update-index --skip-worktree
-ETD
+YYY
 
 No change in this line
 
-HGES
+ERER
