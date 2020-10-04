@@ -1,5 +1,5 @@
 More of text
 git update-index --skip-worktree
-DEF
+ETD
 
-HIJK
+HGES
